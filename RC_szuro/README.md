@@ -1,4 +1,12 @@
 # RC szűrő
+Szül.idő:2006.11.13
+
+Aluláteresztő RC szűrő
+
+Adatok:
+
+R=11
+C=13mikroF
 ---
 |f[Hz]|Uki[V]|
 |----|----|
