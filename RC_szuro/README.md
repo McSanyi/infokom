@@ -1,5 +1,7 @@
-#RC szűrő
+# RC szűrő
+---
 |f[Hz]|Uki[V]|
+|----|----|
 |100|0,996|
 |300|0,963|
 |500|0,912|
@@ -9,3 +11,5 @@
 |2000|0,486|
 |2500|0,407|
 |5000|0,217|
+---
+<img width="742" height="456" alt="image" src="https://github.com/user-attachments/assets/3f360319-6e90-429a-97b4-25f144c81966" />
