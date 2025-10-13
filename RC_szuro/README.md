@@ -5,8 +5,8 @@ Aluláteresztő RC szűrő
 
 *Adatok:*
 
-$ R = 11ohm $
-$ C = 13uF $
+$R = 11 Ohm $   
+$C = 13 uF $ 
 
 ---
 
