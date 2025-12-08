@@ -40,13 +40,10 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 | Jelerősség (RSSI)    | 63.8 dBu |
 | MER                  | 29.0 dB |
 | Noise Margin         | 12.0 |
-| Hiba nélkül vett adás időtartama | 200 sec |   
+| Hiba nélkül vett adás időtartama | 200 sec |  
 
 
-<details>   
-  <summary> A Miskolci TV adótorony által sugárzott frekvenciák </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/miskolciTV.png" alt="Miskolci TV adások" />
-</details>
+###  **A Miskolci TV adótorony által sugárzott frekvenciák** 
 
 <details>   
   <summary> A CH45 -ös csatornán mért spektrum </summary>
